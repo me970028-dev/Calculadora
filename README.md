@@ -6,3 +6,8 @@ Se realiza la calculadora en java con el programa visual studio
 
 ### calculadora
 ![interfaz_calculadora](assets/primera_interfaz)
+
+
+
+### calculadora
+![interfaz_calculadora](assets/wallhaven-pk511p.png)
